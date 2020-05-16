@@ -22,9 +22,9 @@ public class main {
         OneDriveHelperImpl oneDriveHelper = new OneDriveHelperImpl();
 
         oneDriveHelper.login("tester@automation365tests.onmicrosoft.com","Art123q4e!54");
-        oneDriveHelper.navigateTo("root/folder1/folder2/folder5");
-        //oneDriveHelper.createFolder("root/folder1/folder2");
-        //oneDriveHelper.downloadFile("root/folder1/folder2/test.docx");
+        //oneDriveHelper.navigateTo("root/folder1/folder2/folder5");
+        oneDriveHelper.createFolder("root/folder1/folder2");
+        oneDriveHelper.downloadFile("root/folder1/folder2/test.docx");
 
 
 
