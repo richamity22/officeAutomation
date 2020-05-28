@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3d05c62-a592-4551-ab06-015f90145fef" name="Default Changelist" comment="" />
+    <list default="true" id="d3d05c62-a592-4551-ab06-015f90145fef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/richa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/Common.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/Common.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/CommonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/CommonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/Office365BaseActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/Office365BaseActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/OneDriveHelperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/OneDriveHelperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/SharePointHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/SharePointHelper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/SharePointHelperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/SharePointHelperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/TeamsHelperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/TeamsHelperImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/CommonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/CommonUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/Office365BaseActions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/Office365BaseActions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/OneDriveHelperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/OneDriveHelperImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/SharePointHelperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/SharePointHelperImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/TeamsHelperImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/comp/autors/helper/assets/office365/TeamsHelperImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/main.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bqiUzfwt0BoTTYock9HSo6Iwj9" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -25,8 +61,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -61,12 +99,36 @@
       <updated>1589366043833</updated>
       <workItem from="1589366048144" duration="16084000" />
       <workItem from="1589545449933" duration="5703000" />
-      <workItem from="1589635816493" duration="10766000" />
+      <workItem from="1589635816493" duration="12097000" />
+      <workItem from="1589721928045" duration="19888000" />
+      <workItem from="1589915825011" duration="664000" />
+      <workItem from="1589992303233" duration="6658000" />
+      <workItem from="1590066977977" duration="11968000" />
+      <workItem from="1590143548959" duration="2161000" />
+      <workItem from="1590165497442" duration="30314000" />
+      <workItem from="1590308428472" duration="6121000" />
+      <workItem from="1590318293145" duration="13281000" />
+      <workItem from="1590390429471" duration="1329000" />
+      <workItem from="1590402672512" duration="10147000" />
+      <workItem from="1590509957424" duration="6537000" />
+      <workItem from="1590577924369" duration="2380000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -74,14 +136,28 @@
     </ignored-roots>
   </component>
   <component name="WindowStateProjectService">
+    <state x="654" y="275" key="#Notifications" timestamp="1590165518759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="275" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1590165518759" />
     <state x="249" y="0" key="#Project_Structure" timestamp="1589636806245">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1589636806244" />
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1589457801025">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590425500480">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590425500480" />
+    <state x="612" y="181" key="#com.intellij.ide.util.MemberChooser" timestamp="1590329345335">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="612" y="181" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1590329345334" />
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.-192.1920.1040@0.0.1920.1040" timestamp="1589457801025" />
+    <state x="1371" y="308" key="#com.intellij.ide.util.MemberChooser/0.0.3440.1400@0.0.3440.1400" timestamp="1589997441549" />
+    <state x="538" y="281" width="461" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589794930526">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="538" y="281" width="461" height="267" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1589794930526" />
     <state x="464" y="32" key="#main" timestamp="1589635918730">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -90,30 +166,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040/-1920.-192.1920.1040@0.0.1920.1040" timestamp="1589552637231" />
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom" timestamp="1589656855614">
+    <state width="1493" height="141" key="GridCell.Tab.0.bottom" timestamp="1590599101096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589656855614" />
+    <state width="1493" height="141" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590599101096" />
     <state width="1877" height="338" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-192.1920.1040@-1920.-192.1920.1040" timestamp="1589445601143" />
     <state width="1877" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.-192.1920.1040@0.0.1920.1040" timestamp="1589627895655" />
-    <state width="1342" height="195" key="GridCell.Tab.0.center" timestamp="1589656855613">
+    <state width="1420" height="134" key="GridCell.Tab.0.bottom/0.0.3440.1400@0.0.3440.1400" timestamp="1590319172002" />
+    <state width="1493" height="141" key="GridCell.Tab.0.center" timestamp="1590599101096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589656855613" />
+    <state width="1493" height="141" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590599101096" />
     <state width="1877" height="338" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-192.1920.1040@-1920.-192.1920.1040" timestamp="1589445601143" />
     <state width="1877" height="336" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.-192.1920.1040@0.0.1920.1040" timestamp="1589627895655" />
-    <state width="1342" height="195" key="GridCell.Tab.0.left" timestamp="1589656855613">
+    <state width="1420" height="134" key="GridCell.Tab.0.center/0.0.3440.1400@0.0.3440.1400" timestamp="1590319172002" />
+    <state width="1493" height="141" key="GridCell.Tab.0.left" timestamp="1590599101095">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589656855613" />
+    <state width="1493" height="141" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590599101095" />
     <state width="1877" height="338" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-192.1920.1040@-1920.-192.1920.1040" timestamp="1589445601143" />
     <state width="1877" height="336" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.-192.1920.1040@0.0.1920.1040" timestamp="1589627895655" />
-    <state width="1342" height="195" key="GridCell.Tab.0.right" timestamp="1589656855614">
+    <state width="1420" height="134" key="GridCell.Tab.0.left/0.0.3440.1400@0.0.3440.1400" timestamp="1590319172001" />
+    <state width="1493" height="141" key="GridCell.Tab.0.right" timestamp="1590599101096">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1342" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589656855614" />
+    <state width="1493" height="141" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590599101096" />
     <state width="1877" height="338" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-192.1920.1040@-1920.-192.1920.1040" timestamp="1589445601143" />
     <state width="1877" height="336" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.-192.1920.1040@0.0.1920.1040" timestamp="1589627895655" />
+    <state width="1420" height="134" key="GridCell.Tab.0.right/0.0.3440.1400@0.0.3440.1400" timestamp="1590319172002" />
     <state width="1342" height="242" key="GridCell.Tab.1.bottom" timestamp="1589651276010">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -148,14 +228,20 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="322" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1589650955009" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1589457490707">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.-192.1920.1040@0.0.1920.1040" timestamp="1589457490707" />
-    <state x="425" y="69" width="670" height="676" key="search.everywhere.popup" timestamp="1589657748933">
+    <state x="533" y="192" key="extract.method.dialog" timestamp="1590427855755">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="425" y="69" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589657748933" />
+    <state x="533" y="192" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1590427855755" />
+    <state x="493" y="190" key="run.anything.popup" timestamp="1590258549754">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="493" y="190" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1590258549754" />
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/-1920.-192.1920.1040@0.0.1920.1040" timestamp="1589457490707" />
+    <state x="425" y="69" width="670" height="676" key="search.everywhere.popup" timestamp="1590166866588">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="69" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590166866588" />
+    <state x="952" y="117" width="1501" height="1149" key="search.everywhere.popup/0.0.3440.1400@0.0.3440.1400" timestamp="1589998739696" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -164,6 +250,30 @@
           <url>file://$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/Common.java</url>
           <line>25</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/OneDriveHelperImpl.java</url>
+          <line>64</line>
+          <properties class="com.comp.autors.helper.assets.office365.OneDriveHelperImpl" method="shareFolder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/OneDriveHelperImpl.java</url>
+          <line>220</line>
+          <properties class="com.comp.autors.helper.assets.office365.OneDriveHelperImpl" method="deleteFolder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/comp/autors/helper/assets/office365/OneDriveHelperImpl.java</url>
+          <line>180</line>
+          <properties class="com.comp.autors.helper.assets.office365.OneDriveHelperImpl" method="renameFolder">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

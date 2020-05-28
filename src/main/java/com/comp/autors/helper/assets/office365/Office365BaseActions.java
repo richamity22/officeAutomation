@@ -10,9 +10,9 @@ public interface Office365BaseActions {
 
     public void navigateTo(String path);
 
-    public void shareFolder(String pathWithFolderName);
+    public void shareFolder(String pathWithFolderName, String user);
 
-    public void shareFile(String pathWithFileName);
+    public void shareFile(String pathWithFileName, String user);
 
     public void unShareFolder(String pathWithFolderName);
 
@@ -33,4 +33,12 @@ public interface Office365BaseActions {
     public void downloadFile(String pathWithFileName);
 
     public void downloadFolder(String pathWithFolderName);
+
+    public void viewFile(String pathWithFileName);
+
+    public void modifyFile(String pathWithFileName, String textAdditionToExist);
+
+    public void copyFileTo(String pathWithFileName,String pathCopyTo);
+
+    public void moveFileTo(String pathWithFileName,String pathMoveTo);
 }
